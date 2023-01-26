@@ -6,6 +6,19 @@ b = 6
 
 
 def sum(a,b):
-    return a*b
+    return a+b
 
 print("Adeed a new function sum")
+
+
+def mul(a,b):
+    return a*b
+
+
+print("Adeed a new function mul")
+
+
+def div(a,b):
+    return a/b
+
+print("Adeed a new function div")
